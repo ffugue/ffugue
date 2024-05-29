@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a Computer Engineering student at the Sharif University of Technology.
 
-I do enjoy parametrizing natural behaviors and discovering mathematics and statistics beyond everything. So particularly, I am very excited about mixing machine learning with different subjects. Of course, I am also interested in combined fields, such as Computational Art, NLP,Game theory,Computational Neuroscience, RL, Computational Social Choice, Computer Vision, HCI, and CSCW.
+I do enjoy parametrizing natural behaviors and discovering mathematics and statistics beyond everything. So particularly, I am passionate about using machine learning tools, especially for prediction. My interests involve Computational Art, NLP, Game theory, Computational Neuroscience, RL, Computational Social Choice, Computer Vision, HCI, and CSCW.
 - 📫 How to reach me: heliakaviansharif@gmail.com
 
 - 💡 Feel free to take a look at my [Resume!](https://github.com/ffugue/)
